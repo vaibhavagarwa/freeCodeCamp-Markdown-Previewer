@@ -1,0 +1,49 @@
+body
+{
+  background:black;
+}
+#editor
+{
+  height:250px;
+  width:75%;
+    margin-left:auto;
+  margin-right:auto;
+  display:block;
+  background-color:#E0FFFF;
+margin-bottom:15px;
+  border:2px solid white;
+}
+#preview
+{
+  margin-top:0px;
+  width:90%;
+
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  border:1px solid grey;
+  background:	#E0FFFF;
+border:2px solid white;
+}
+
+ #prev
+{
+  font-size:25px;
+  color:white;
+  display: block;
+width: 75%;
+margin-left:34px;
+  background:black;
+  font-weight:bold;
+ 
+}
+#edi
+{
+    font-size:25px;
+  color:white;
+  display: block;
+width: 75%;
+margin-left:86px;
+  background:black;
+      font-weight:bold;
+}
